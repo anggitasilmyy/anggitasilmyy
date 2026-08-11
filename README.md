@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Silmy Kaffa Anggita 👋
+# Hi, I'm Silmy Kaffa Anggita!
 
 ### Information Systems Student · Aspiring Business Analyst · UI/UX Enthusiast
 
@@ -23,11 +23,11 @@ I enjoy understanding user needs, analyzing business processes, identifying syst
 
 Through academic projects and organizational experiences, I continue to develop my skills in **business and system analysis, requirements analysis, process modeling, UI/UX, data analytics, and information system implementation**.
 
-> 🎯 Currently focusing on developing my career path in **Business Analysis and System Analysis**, supported by UI/UX and technical knowledge.
+> Currently focusing on developing my career path in **Business Analysis and System Analysis**, supported by UI/UX and technical knowledge.
 
 ---
 
-## 💡 Areas of Interest
+## Areas of Interest
 
 - Business Analysis
 - System Analysis
@@ -40,7 +40,7 @@ Through academic projects and organizational experiences, I continue to develop 
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ### 📊 Business & System Analysis
 
@@ -79,9 +79,9 @@ Through academic projects and organizational experiences, I continue to develop 
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🐰 RabbitCare
+### RabbitCare
 **Rabbit Clinic & Care Information System**
 
 Business and system analysis project focused on designing an integrated digital solution for rabbit clinic and care services.
@@ -102,7 +102,7 @@ Business and system analysis project focused on designing an integrated digital 
 
 ---
 
-### 💆🏻‍♀️ Lumiere Beauty
+### Lumiere Beauty
 **Beauty Treatment Booking & Management System**
 
 A web-based information system designed to support treatment booking, scheduling, payment, and beauty service management.
@@ -115,7 +115,7 @@ A web-based information system designed to support treatment booking, scheduling
 
 ---
 
-### ☕ Arabica Coffee Data Warehouse
+### Arabica Coffee Data Warehouse
 **Data Warehouse for Arabica Coffee Producer Price Trend Analysis**
 
 A data warehouse project designed to support analysis of Arabica coffee producer price trends using multidimensional modeling and ETL processes.
@@ -128,7 +128,7 @@ A data warehouse project designed to support analysis of Arabica coffee producer
 
 ---
 
-### 🏥 KenangaCare
+### KenangaCare
 **Mobile Healthcare Information System**
 
 A mobile application prototype developed by translating healthcare service requirements into a user-centered digital solution.
@@ -141,7 +141,7 @@ A mobile application prototype developed by translating healthcare service requi
 
 ---
 
-### 🍰 Mako Cake & Bakery
+### Mako Cake & Bakery
 **ERP Inventory & Purchasing Implementation**
 
 An ERP implementation project focused on inventory and purchasing business processes using Odoo.
@@ -154,7 +154,7 @@ An ERP implementation project focused on inventory and purchasing business proce
 
 ---
 
-## 💼 Organizational Experience
+## Organizational Experience
 
 ### Secretary I
 **Information Systems Student Association — Universitas Esa Unggul**  
@@ -168,7 +168,7 @@ Contributing to organizational administration, documentation, correspondence, co
 
 ---
 
-## 🏆 Achievement
+## Achievement
 
 ### 🎓 Unggulan Scholarship Awardee
 **Universitas Esa Unggul**
@@ -177,7 +177,7 @@ Recipient of the Unggulan Scholarship while pursuing a Bachelor's degree in Info
 
 ---
 
-## 🌱 Currently Learning & Developing
+## Currently Learning & Developing
 
 I'm currently strengthening my knowledge and practical skills in:
 
@@ -186,7 +186,7 @@ I'm currently strengthening my knowledge and practical skills in:
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 I'm open to learning opportunities, collaborations, projects, and experiences related to **Business Analysis, System Analysis, UI/UX, and Information Systems**.
 
