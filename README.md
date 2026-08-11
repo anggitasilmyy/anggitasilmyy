@@ -4,6 +4,5 @@ Information Systems student at **Esa Unggul University** with a strong interest 
 
 I enjoy analyzing business processes, understanding user needs, and translating requirements into effective digital solutions.
 
-🏆 Unggulan Scholarship Awardee
 
 [LinkedIn](https://www.linkedin.com/in/silmy-kaffa-anggita-1347a6322) • Portfolio coming soon
