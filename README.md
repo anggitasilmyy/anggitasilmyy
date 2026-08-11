@@ -4,7 +4,7 @@
 
 ### Information Systems Student · Aspiring Business Analyst · UI/UX Enthusiast
 
-🎓 Universitas Esa Unggul &nbsp; | &nbsp; 🏆 Unggulan Scholarship Awardee
+🎓 Esa Unggul University &nbsp; | &nbsp; 🏆 Unggulan Scholarship Awardee
 
 <br>
 
@@ -17,7 +17,7 @@
 
 ## 👩🏻‍💻 About Me
 
-I'm an **Information Systems student at Universitas Esa Unggul** with a strong interest in **Business Analysis** and a growing interest in **UI/UX Design**.
+I'm an **Information Systems student at Esa Unggul University** with a strong interest in **Business Analysis** and a growing interest in **UI/UX Design**.
 
 I enjoy understanding user needs, analyzing business processes, identifying system requirements, and translating them into effective digital solutions.
 
@@ -157,7 +157,7 @@ An ERP implementation project focused on inventory and purchasing business proce
 ## Organizational Experience
 
 ### Secretary I
-**Information Systems Student Association — Universitas Esa Unggul**  
+**Information Systems Student Association — Esa Unggul University**  
 *December 2025 — Present*
 
 Contributing to organizational administration, documentation, correspondence, coordination, and various student activities within the Information Systems Student Association.
@@ -171,7 +171,7 @@ Contributing to organizational administration, documentation, correspondence, co
 ## Achievement
 
 ### 🎓 Unggulan Scholarship Awardee
-**Universitas Esa Unggul**
+**Esa Unggul University**
 
 Recipient of the Unggulan Scholarship while pursuing a Bachelor's degree in Information Systems.
 
