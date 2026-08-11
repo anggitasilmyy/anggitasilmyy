@@ -1,6 +1,6 @@
 # Hi, I'm Silmy Kaffa Anggita!
 
-Information Systems student at **Universitas Esa Unggul** with a strong interest in **Business Analysis** and a growing interest in **UI/UX Design**.
+Information Systems student at **Esa Unggul University** with a strong interest in **Business Analysis** and a growing interest in **UI/UX Design**.
 
 I enjoy analyzing business processes, understanding user needs, and translating requirements into effective digital solutions.
 
