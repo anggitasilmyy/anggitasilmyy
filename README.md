@@ -1,8 +1,21 @@
 # Hi, I'm Silmy Kaffa Anggita!
 
-Information Systems student at **Esa Unggul University** with a strong interest in **Business Analysis** and a growing interest in **UI/UX Design**.
+Information Systems undergraduate at Universitas Esa Unggul, interested in **Business Analysis, System Analysis, and Business Process Improvement**.
 
-I enjoy analyzing business processes, understanding user needs, and translating requirements into effective digital solutions.
+### Areas of Interest
+- Business & Requirements Analysis
+- Business Process Modeling (BPMN)
+- System Analysis & Design
+- Data & Database Management
 
+### Tools & Technologies
+`Microsoft Excel` `SQL` `MySQL` `BPMN` `UML` `PHP` `Laravel`
 
-[LinkedIn](https://www.linkedin.com/in/silmy-kaffa-anggita-1347a6322) • Portfolio coming soon
+### Featured Projects
+- [RabbitCare](https://github.com/anggitasilmyy/rabbitcare-system-analysis) – Business & System Analysis
+- [SI-MKP MBKM](https://github.com/anggitasilmyy/TugasPraktikum-APSI-SI-MKP-MBKM) – Business Process Modeling
+- [Oven & Co.](https://github.com/anggitasilmyy/oven-and-co) – Digital Business Solution
+- [Lumiere Beauty](https://github.com/anggitasilmyy/lumiere-beauty) – Web-based Booking System
+
+### Connect With Me
+[LinkedIn](https://www.linkedin.com/in/anggitasilmyy) · [GitHub](https://github.com/anggitasilmyy)
